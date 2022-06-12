@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio for ML &amp; AI
+Portfolio for ML &amp; AI Projects
